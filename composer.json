@@ -1,5 +1,5 @@
 {
-  "name": "dev-object/larafort",
+  "name": "Drrepo/larafort",
   "description": "Larafort is a simple package to process payments throught PAYFORT Online Payment Gateway. (Using wshurafa/laravel-payfort)",
   "keywords": [
     "payment",
