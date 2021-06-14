@@ -46,7 +46,7 @@ class PayfortServiceProvider extends ServiceProvider
      */
     public function register()
     {
-        \Log::debug('Registered');
+//        \Log::debug('Registered');
         # Merge application and packages configurations
         $this->mergeConfigFrom(
             $this->configPath,
